@@ -14,7 +14,6 @@ import Form from 'react-bootstrap/Form'
 
 
 
-
 const CardList = (props) => {
   console.log(props);
   return (
